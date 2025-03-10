@@ -2,7 +2,7 @@ name: "RStudio Reference Guide"
 title: "RStudio Reference Guide"
 description: |
   Reference Guide
-output_dir: "_site"
+output_dir: "."
 theme: theme.css
 navbar:
   right:
